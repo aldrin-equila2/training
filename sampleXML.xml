@@ -1,0 +1,83 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<preset>
+<Updated>2012/02/08</Updated>
+<info_text>
+<Text_A>
+One or more parameter of your listening plan are outdated. Please connect to the server to update them.
+</Text_A>
+<Text_B>
+The function "Prime MS" allows you to think ahead: Download music tracks you will need in the next days at a convenient time and location (WiFi rather than g3) This allows you to enjoy the music of your listening plan even without the support of a wireless connection.
+</Text_B>
+<Link_Text_B>https://secure.smartdecision.org</Link_Text_B>
+<Text_C1>
+(generic plans) Unfortunatley your listening plan has expired. Please contact us to discuss the options .. . dummy text more and more and more and more and more to come ....
+</Text_C1>
+<Link_Text_C1>http://samonas.com</Link_Text_C1>
+<Text_C2>
+(personal listening plans) Unfortunatley your listening plan has expired. Please contact us for a review, for an update, for the next segment, for the next target area to address
+</Text_C2>
+<Link_Text_C2>http://samonas.com/data</Link_Text_C2>
+<Text_G1>
+Welcome to Samonas Interactive Personalized Auditory Training Program
+</Text_G1>
+<Text_G2>
+Welcome back (uName) (UserID) Enjoy your Personal Interactive Auditory Training Program Samonas - improving the world - ear by ear!
+</Text_G2>
+</info_text>
+<Rating_Questions>
+<RQ1>YES</RQ1>
+<RQ2>NO</RQ2>
+<RQ3>STAY ON current LISTENING TIME</RQ3>
+<RQ4>GENTLY INCREASE current listening time</RQ4>
+<RQ5>SIGNIFIC. INCREASE current listen. time</RQ5>
+<RQ6>DECREASE current listening time A BIT</RQ6>
+<RQ7>SIGNIFIC. DECREASE current listen. time</RQ7>
+<RQ8>Significant positive changes</RQ8>
+<RQ9>Noticeable positive changes</RQ9>
+<RQ10>Slight positive changes</RQ10>
+<RQ11>NO changes observed</RQ11>
+<RQ12>Negative development</RQ12>
+</Rating_Questions>
+<Rating_Texts>
+<R1>
+Did you experience signs of dis-comfort during last listening or in the period after last listening
+</R1>
+<R2>
+Do you think that the discomfort experienced is related to listening or could it be related to other influences? \n Choose YES for related to listening.
+</R2>
+<R3>Please rate your listening experience</R3>
+<R4>
+Understanding that the dis-comfort experienced is related to listening. Please select one of the options below: Stay on current listening time if the dis-comfort was mild,you are uncertain. This gives you the option to observe for one more day
+</R4>
+<R5>
+Likely you want to stay on the current listening time, unless you prefer to decrease listening time in order to reduce the over all load and stress
+</R5>
+<R6>
+Congratulations! We suggest to stay on the current listening time for now. It appears to work well.
+</R6>
+<R7>
+Decide for a slight increase if you feel that the optimum is not yet reached. Be careful though. More listening is not equal to more improvement. Stay on the current listening time if you learned already that further increase will trigger unwanted effects or if you want to stay on the safe side.
+</R7>
+<R8>
+There are different reasons for observing no changes: The listening time is too low. This is more likely in the beginning of listening. Either slightly increase or significantly increase, depending on the situation - your judgement. In some target areas it may take a moment for changes to manifest themself. Be patient. Do opt for Stay on the current listening time if you know that longer listening time has caused stress before.
+</R8>
+<R9>
+In your judgement: Are the negative changes you experienced related to listening? Are they likely to be related to stress on the system (overload). In this case please reduce listening time. Are the negative changes observed caused by a different development or the situation is unclear? In this case you may decide to stay on the current listening time and observe for one more day. Please contact your supervisor in case of doubt.
+</R9>
+<R10>
+Below please find the feedback you gave. - feel free to add or edit. Please submit when you are done . This allows us to calculate the optimal listening time for today's session(s)
+</R10>
+<R11>
+Please specify your observations: In what context did you see positive changes? How often? At what time? (Example: Increased attention span. Once during homework in the afternoon)
+</R11>
+<R12>
+Please specify any observations you may have made: Contributing elements. Changes in daily routine.
+</R12>
+<R13>
+Sorry to hear this, please specify your observations: In what context did you see positive changes? How often? At what time? (Example: Less focussed. Once, during homework in the afternoon)
+</R13>
+<R14>
+What happend? Please share the details to the discomfort observed?
+</R14>
+</Rating_Texts>
+</preset>
